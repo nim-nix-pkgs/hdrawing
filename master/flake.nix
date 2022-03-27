@@ -11,6 +11,7 @@
   inputs.src-hdrawing-master.ref   = "refs/heads/master";
   inputs.src-hdrawing-master.owner = "haxscramper";
   inputs.src-hdrawing-master.repo  = "hdrawing";
+  inputs.src-hdrawing-master.dir   = "";
   inputs.src-hdrawing-master.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
