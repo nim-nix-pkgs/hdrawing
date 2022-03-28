@@ -11,7 +11,6 @@
   inputs.src-hdrawing-0_1_2.ref   = "refs/tags/0.1.2";
   inputs.src-hdrawing-0_1_2.owner = "haxscramper";
   inputs.src-hdrawing-0_1_2.repo  = "hdrawing";
-  inputs.src-hdrawing-0_1_2.dir   = "";
   inputs.src-hdrawing-0_1_2.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
